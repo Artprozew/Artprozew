@@ -4,10 +4,9 @@ My name is Arthur.
 
 **<details><summary>I am</summary>**
 
-- 18 years old.
 - from Rio de Janeiro, Brazil.
 - a self-taught programmer
-- a GTA SA modder
+- a game modder wannabe
 </details>
 
 **<details><summary>I know</summary>**
@@ -15,6 +14,7 @@ My name is Arthur.
 - Python
 - Lua
 - C++ (learning)
+- C# (learning)
 - GTA3script
 - Batch
 - Pawn
@@ -30,4 +30,4 @@ My name is Arthur.
 - Cars
 </details>
 
-My Discord: Artprozew#0977
+Discord: artprozew
