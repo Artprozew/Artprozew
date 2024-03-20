@@ -1,20 +1,29 @@
-### Hey
+## Hey 👋
 
-My name is Arthur.
+My name is **Arthur**.
 
+- Working currently with WebDev in general
+- Intending to learn Java 😅
+#
+
+### Profile
+<sub><sup>(click to show more)</sup></sub>
 **<details><summary>I am</summary>**
 
-- from Rio de Janeiro, Brazil.
+- from Espírito Santo, Brasil
 - a self-taught programmer
 - a game modder wannabe
+- a software engineering student
 </details>
 
 **<details><summary>I know</summary>**
 
 - Python
+- JavaScript
+- HTML/CSS
 - Lua
-- C++ (learning)
-- C# (learning)
+- C++ (basic)
+- C# (basic)
 - GTA3script
 - Batch
 - Pawn
@@ -28,6 +37,14 @@ My name is Arthur.
 - Aircrafts
 - Military stuff
 - Cars
+- Philosophy
+- Going to the gym
 </details>
 
-Discord: artprozew
+#
+<br/>
+<div>
+  <a href="https://github.com/Artprozew" style="text-decoration:none;"></a>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent"/>
+</div>
