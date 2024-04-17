@@ -2,12 +2,12 @@
 
 My name is **Arthur**.
 
-- Working currently with WebDev in general
+- Working currently with WebDev in general 📘
 - Intending to learn Java 😅
-#
+##
 
 ### Profile
-<sub><sup>(click to show more)</sup></sub>
+<sub><sup>(click to expand)</sup></sub>
 **<details><summary>I am</summary>**
 
 - from Espírito Santo, Brasil
@@ -22,8 +22,10 @@ My name is **Arthur**.
 - JavaScript
 - HTML/CSS
 - Lua
-- C++ (basic)
-- C# (basic)
+- C (learning)
+- Java (learning)
+- C++ (learning)
+- C# (learning)
 - GTA3script
 - Batch
 - Pawn
@@ -41,10 +43,27 @@ My name is **Arthur**.
 - Going to the gym
 </details>
 
-#
+##
 <br/>
 <div>
-  <a href="https://github.com/Artprozew" style="text-decoration:none;"></a>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent"/>
+  <a style="text-decoration: none !important;" href="https://github.com/Artprozew">
+      <div>
+        <p align="center">
+          <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+          <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6"/>
+        </p>
+      </div>
+      <p align="center">
+        <img height="225cm" width="800cm" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent"/>
+      </p>
+  </a>
+</div>
+
+##
+<div>
+  <p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/art-carvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:arthurbcarvalho2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="https://wa.me/5527992691117"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </p>
 </div>
