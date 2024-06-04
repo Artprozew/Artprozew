@@ -54,7 +54,7 @@ My name is **Arthur**.
         </p>
       </div>
       <p align="center">
-        <img height="225cm" width="800cm" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent"/>
+        <img height="320cm" width="800cm" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/>
       </p>
   </a>
 </div>
