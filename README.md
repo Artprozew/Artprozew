@@ -46,17 +46,16 @@ My name is **Arthur**.
 ##
 <br/>
 <div>
-  <a style="text-decoration: none !important;" href="https://github.com/Artprozew">
-      <div>
-        <p align="center">
-          <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-          <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6"/>
-        </p>
-      </div>
+    <div>
       <p align="center">
-        <img height="320cm" width="800cm" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/>
+        <a href="https://github.com/Artprozew"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a> <!-- segregating anchor tag fixes unwanted underline decoration -->
+        <a href="https://github.com/Artprozew"> <img height="165cm" alt="Artprozew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6&count&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
+        <br/>
       </p>
-  </a>
+    </div>
+    <p align="center">
+      <a href="https://github.com/Artprozew"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/> </a>
+    </p>
 </div>
 
 ##
