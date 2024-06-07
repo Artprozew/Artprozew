@@ -1,15 +1,29 @@
-## Hey 👋
+# Hey 👋
 
 <!-- [![pt-br](https://img.shields.io/badge/readme-pt--br-green)](https://github.com/Artprozew/Artprozew/blob/main/README.pt-br.md) -->
 
-My name is **Arthur**.
+### My name is Arthur
 
-- Working currently with WebDev in general 📘
+- Currently working with WebDev in general 📘
 - Probably busy with college or personal projects 🫠
 
-## Profile
+**<details><summary>More about me</summary>**
 
-### Languages and Technologies
+I'm a passionate coder from **Brazil**, I've always been fascinated by the potential of **computers** and **technology**. I've been a **self-taught** hobbyist programmer for a long time, but now I'm studying **Software Engineering** in college to take my skills to the next level.
+
+When I'm not coding, I enjoy:
+- Gaming 🎮
+- Aircrafts ✈️
+- Military stuff 🪖
+- Cars 🚘
+- Philosophy 🏛️
+- Going to the gym 💪
+
+</details>
+
+## Skills
+
+### Programming Languages, Tools and Technologies
 
 #### Most Familiar
 
@@ -41,23 +55,9 @@ My name is **Arthur**.
 ![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-a4875e?style=for-the-badge&logoColor=white)
 
-**<details><summary>More about me</summary>**
-
-I'm a passionate coder from Brazil, I've always been fascinated by the potential of computers and technology. I've been a self-taught hobbyist programmer for a long time, but now I'm studying Software Engineering in college to take my skills to the next level.
-
-When I'm not coding, I enjoy:
-- Gaming
-- Aircrafts
-- Military stuff
-- Cars
-- Philosophy
-- Going to the gym
-
-</details>
-
+</br>
 
 <h1 align="center">GitHub Stats</h1>
-<br/>
 <div>
     <div>
       <p align="center">
