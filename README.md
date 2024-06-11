@@ -60,18 +60,23 @@ When I'm not coding, I enjoy:
 <h1 align="center">GitHub Stats</h1>
 <div>
     <div>
-      <p align="center">
-        <a href="https://github.com/Artprozew"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a> <!-- segregating anchor tag fixes unwanted underline decoration -->
-        <a href="https://github.com/Artprozew"> <img height="165cm" alt="Artprozew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6&count&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
-        <br/>
-      </p>
+        <p align="center">
+            <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
+            <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
+            <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="165cm" alt="Artprozew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6&count&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
+            <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="165cm" alt="Artprozew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6&count&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
+            <!-- isolating anchor tags prevents unwanted underline decoration -->
+            <br/>
+        </p>
     </div>
     <p align="center">
-      <a href="https://github.com/Artprozew"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/> </a>
+      <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/></a>
+        <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/></a>
     </p>
 </div>
 
 ##
+
 **Contact me on:**
 <div>
   <p align="center">
