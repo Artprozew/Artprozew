@@ -40,9 +40,7 @@ When I'm not coding, I enjoy:
 
 #### Learning
 
-![C](https://img.shields.io/badge/C-6a9dd3?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f39110?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 </br>
 ![Vim](https://img.shields.io/badge/VIM-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
@@ -51,9 +49,11 @@ When I'm not coding, I enjoy:
 
 ##### Other/Standby
 
+![C](https://img.shields.io/badge/C-6a9dd3?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-a4875e?style=for-the-badge&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=batch&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-a4875e?style=for-the-badge&logo=pawn&logoColor=white)
 
 </br>
 
