@@ -71,7 +71,7 @@ When I'm not coding, I enjoy:
     </div>
     <p align="center">
       <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini"/></a>
-        <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini,binary,conf,other"/></a>
+        <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="320cm" width="800cm" align="center" alt="Artprozew's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=artprozew&layout=compact&theme=transparent&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true&hide=xml,tex,autohotkey,tsconfig,java+properties,text,groovy,rpmspec,toml,ini,binary,conf,git+config,other"/></a>
     </p>
 </div>
 
