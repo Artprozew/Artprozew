@@ -61,6 +61,8 @@ When I'm not coding, I enjoy:
 <div>
     <div>
         <p align="center">
+            <a href="https://github.com/Artprozew"><img src="https://github-profile-trophy.vercel.app/?username=artprozew&theme=onedark&no-bg=true&margin-w=4&column=4&rank=-?,-C"/></a>
+            </br>
             <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
             <a href="https://github.com/Artprozew#gh-light-mode-only"> <img height="165cm" alt="Artprozew's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=artprozew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=000000&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
             <a href="https://github.com/Artprozew#gh-dark-mode-only"> <img height="165cm" alt="Artprozew's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artprozew&hide=scala&layout=compact&theme=transparent&langs_count=6&count&text_color=ffffff&title_color=3300ff&icon_color=3300ff&hide_border=true"/></a>
