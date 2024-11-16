@@ -4,8 +4,8 @@
 
 ### My name is Arthur
 
-- Currently working with WebDev in general 📘
-- Probably busy with college or personal projects 🫠
+- Currently studying Web Development with C#/ASP.NET Core 📘
+- Probably busy with my new job 🫠
 
 **<details><summary>More about me</summary>**
 
